@@ -1,2 +1,5 @@
 # Give-Me-Some-Credit
-Kaggle Data Science Competition: https://www.kaggle.com/competitions/GiveMeSomeCredit
+Original Kaggle Data Science Competition: https://www.kaggle.com/competitions/GiveMeSomeCredit
+
+Kaggle Profile: https://www.kaggle.com/suminoliviakim
+Notebook: 
